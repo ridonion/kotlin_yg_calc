@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">YGO_CALC</string>
+    <string name="page_home">Home</string>
+    <string name="page_calc">Calculate</string>
+    <string name="page_duel_history">Duel History</string>
+    <string name="page_dice">Dice Roll</string>
+    <string name="page_coin">Coin</string>
+
+    <string name="btn_eq">=</string>
+    <string name="btn_add">+</string>
+    <string name="btn_sub">-</string>
+    <string name="btn_mlt">×</string>
+    <string name="btn_div">÷</string>
+
+    <string name="btn_dice">Dice Roll</string>
+</resources>
